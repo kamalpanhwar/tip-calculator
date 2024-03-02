@@ -1,3 +1,12 @@
+
+# Update project
+If you want you can update it using latest react. I am using pnpm but you can any other package manager too.
+
+```bash
+pnpm i
+pnpm run dev
+```
+
 # Tip Calculator
 
 A sample React and Redux application for teaching React and Redux.
